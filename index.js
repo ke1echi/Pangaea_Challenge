@@ -11,4 +11,4 @@ app.use(express.urlencoded({ extended: false }));
 // Use routes
 app.use(appRouter);
 
-app.listen(port, () => console.log(`Server listening on port ${port}.`));
+app.listen(port, () => console.log(`Server listening on port ${port}!`));
