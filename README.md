@@ -1,12 +1,27 @@
 ## What I will be building
 
-[Here](https://pangaea-interviews.now.sh/be)
+* [Here](https://pangaea-interviews.now.sh/be)
 
 - I'll be recreating a pub / sub system using HTTP requests.
 
-## The project is currently built with the following tools:
+## Built With:
 
-- JavaScript (Node, Express)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Language used.
+* [NodeJS](https://nodejs.org/en/docs/) - The web framework used.
+* [Express](https://expressjs.com/) - Web framework for Node.js.
+
+## Installing:
+Ensure you have NodeJS installed on your machine
+
+```
+npm install
+```
+
+Start server
+
+```
+npm run dev
+```
 
 
 ## Contributions
